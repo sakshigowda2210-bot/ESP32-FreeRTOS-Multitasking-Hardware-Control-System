@@ -154,3 +154,11 @@ ESP32-FreeRTOS-Multitasking-Hardware-Control-System/
 
 Electronics and Communication Engineering
 Embedded Software / Firmware Engineering
+
+## Hardware Images
+
+### Sensor Active State
+![Sensor Active State](images/ACTIVE.jpeg)
+
+### Sensor Idle State
+![Sensor Idle State](images/IDLE.jpeg)
